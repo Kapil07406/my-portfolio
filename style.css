@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f6fa;
+    color: #333;
+}
+
+header {
+    background: #0078ff;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+
+}
+
+section {
+    margin: 40px;
+}
+
+h2 {
+    color: #0078ff;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
